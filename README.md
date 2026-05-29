@@ -14,6 +14,29 @@ By consolidating fragmented tools into a single system, the project enhances pro
 
 ---
 
+## 📄 Project Documentation
+
+The complete project documentation is available at the following link:
+
+🔗 **Project Documentation (PDF)**
+https://drive.google.com/file/d/1I6Ulb8_3dgScMIfamJEjcv1gMKV2JJfC/view?usp=sharing
+
+### Documentation Contents
+
+* Project Requirements and Analysis
+* System Architecture and Design
+* UML Diagrams
+* Web Platform Methodology
+* Database Design and Schema
+* System Implementation Details
+* User Interface and Dashboard
+* Test Cases and Evaluation
+* Challenges and Limitations
+* Future Enhancements
+* Conclusion and References
+
+---
+
 ## 🛠️ Technologies & Environment  
 
 The system is built using a modern and scalable technology stack to ensure performance, flexibility, and maintainability:
