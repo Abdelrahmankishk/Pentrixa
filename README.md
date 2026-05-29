@@ -18,7 +18,7 @@ By consolidating fragmented tools into a single system, the project enhances pro
 
 The complete project documentation is available at the following link:
 
-🔗 **Project Documentation (PDF): **
+🔗 **Project Documentation (PDF)**: 
 https://drive.google.com/file/d/1I6Ulb8_3dgScMIfamJEjcv1gMKV2JJfC/view?usp=sharing
 
 ### Documentation Contents
